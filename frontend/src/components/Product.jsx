@@ -58,8 +58,6 @@ justify-content: center;
 margin:10px;
 transition: all 0.5s ease;
 
-};
-
 &:hover{
     background-color:#e9f5f5 ;
     transform: scale(1.1);
