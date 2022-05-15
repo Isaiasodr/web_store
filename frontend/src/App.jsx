@@ -6,6 +6,7 @@ import Register from "./pages/Register";
 import Login from "./pages/login";
 import Cart from "./pages/Cart";
 
+
 const App = () => {
   
   return <Cart/>
